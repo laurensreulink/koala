@@ -1,0 +1,4 @@
+PySide2
+Pandas
+Numpy
+scikit-learn
